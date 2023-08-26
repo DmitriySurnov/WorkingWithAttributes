@@ -1,0 +1,15 @@
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\bin\Debug\net7.0\WorkingWithAttributes.exe
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\bin\Debug\net7.0\WorkingWithAttributes.deps.json
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\bin\Debug\net7.0\WorkingWithAttributes.runtimeconfig.json
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\bin\Debug\net7.0\WorkingWithAttributes.dll
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\bin\Debug\net7.0\WorkingWithAttributes.pdb
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\WorkingWithAttributes.csproj.AssemblyReference.cache
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\WorkingWithAttributes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\WorkingWithAttributes.AssemblyInfoInputs.cache
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\WorkingWithAttributes.AssemblyInfo.cs
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\WorkingWithAttributes.csproj.CoreCompileInputs.cache
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\WorkingWithAttributes.dll
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\refint\WorkingWithAttributes.dll
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\WorkingWithAttributes.pdb
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\WorkingWithAttributes.genruntimeconfig.cache
+D:\Разработка веб-приложений с использованием технологий ASP.NET и AJAX\git\WorkingWithAttributes\WorkingWithAttributes\obj\Debug\net7.0\ref\WorkingWithAttributes.dll

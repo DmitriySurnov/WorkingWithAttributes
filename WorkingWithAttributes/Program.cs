@@ -1,0 +1,31 @@
+﻿// See https://aka.ms/new-console-template for more information
+using WorkingWithAttributes;
+
+Console.WriteLine("Первое задание");
+Console.WriteLine("Исходное значение");
+Task1Beaten task1 = new();
+Console.WriteLine(TaskShow.ShowClassContents(task1));
+Task1Beater.CgangeUnchangable(task1);
+Console.WriteLine("Измененное значение");
+Console.WriteLine(TaskShow.ShowClassContents(task1));
+Console.WriteLine("Второе задание");
+Task2Beaten task2 = new();
+Console.WriteLine("Исходное значение");
+Console.WriteLine(TaskShow.ShowClassContents(task2));
+Task2Beater.CgangeUnchangable(task2);
+Console.WriteLine("Измененное значение");
+Console.WriteLine(TaskShow.ShowClassContents(task2));
+Console.WriteLine("Третие задание");
+Task3Beaten task3 = new();
+Console.WriteLine("Исходное значение");
+Console.WriteLine(TaskShow.ShowClassContents(task3, true));
+Task3Beater.CgangeUnchangable(task3);
+Console.WriteLine("Измененное значение");
+Console.WriteLine(TaskShow.ShowClassContents(task3, true));
+Console.WriteLine("Четвертое задание");
+Task4Beaten task4 = new();
+Console.WriteLine("Исходное значение");
+Console.WriteLine(TaskShow.ShowClassContents(task4, true));
+Task4Beater.CgangeUnchangable(task4);
+Console.WriteLine("Измененное значение");
+Console.WriteLine(TaskShow.ShowClassContents(task4, true));
